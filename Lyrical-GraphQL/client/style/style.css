@@ -2,3 +2,16 @@
 	display: flex;
 	justify-content: space-between;
 }
+
+.vote-box .material-icons {
+	cursor: pointer;
+	margin-left: 5px;
+}
+.vote-box {
+	display: flex;
+	align-items: center;
+}
+
+body {
+	padding-top: 30px;
+}
